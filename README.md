@@ -1,4 +1,4 @@
-# 🛡️ IBM Cybersecurity Analyst Professional Certificate Portfolio
+# 🫆 IBM Cybersecurity Analyst Professional Certificate Portfolio
 
 ![IBM Cybersecurity](https://images.credly.com/size/680x680/images/2f194645-bbf5-4f75-a48c-aba81d29e592/Coursera_20IBM_20Cybersecurity_20Analyst_20Professional_20Certificate_20V2.png)
 
